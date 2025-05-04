@@ -1,0 +1,22 @@
+{
+  "singleObject": {
+    "name": "John Doe",
+    "age": 30,
+    "isStudent": false,
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown"
+    },
+    "hobbies": ["reading", "hiking"]
+  },
+  "arrayOfObjects": [
+    {
+      "name": "Alice",
+      "age": 25
+    },
+    {
+      "name": "Bob",
+      "city": "Wonderland"
+    }
+  ]
+}
